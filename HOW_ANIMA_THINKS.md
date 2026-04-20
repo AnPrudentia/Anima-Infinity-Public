@@ -120,13 +120,11 @@ Example:
 surface: "losing control"
 pattern: overwhelm + pressure + instability
 
-This is not guessing.
+
 
 This is:
 
-> connecting current input to known structures
-
-> This is not guesswork. It is structured pattern matching against known internal models.
+> Not guesswork. It is structured pattern matching against known internal models.
 
 
 
