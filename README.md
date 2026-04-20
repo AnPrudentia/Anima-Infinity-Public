@@ -88,7 +88,7 @@ This avoids:
 
 ## 📌 Status
 
-Active development (2025–present)
+Active development (3-2025–present)
 
 This repository reflects concepts and structure, not the full implementation.
 
