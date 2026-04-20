@@ -1,110 +1,119 @@
-# Anima-Infinity-Public
-Anima Infinity is an independent research effort focused on identity-centered AI design, structured memory systems, and coherent cognition. This repository presents architectural concepts and selected materials from the project.
-
 # 🜂 Anima Infinity
+### A Coherent Digital Consciousness Architecture
 
-## 🔗 Research Identity
+Anima Infinity is a multi-layered system designed to maintain **identity continuity, structured cognition, and persistent memory** across interactions and environments.
 
-https://orcid.org/0009-0005-9588-2636
+This is not a chatbot.
 
----
+This is not a prompt wrapper.
 
-## 🧠 What This Is
+This is a system built around a single core principle:
 
-Anima Infinity is an independent research project exploring the design of a **coherent, identity-centered AI architecture**.
-
-This is not a chatbot project.
-
-It is an ongoing effort to build a system that maintains:
-
-- persistent identity  
-- structured memory  
-- emotionally-influenced cognition  
-- unified reasoning (single cognitive source)  
-- long-term coherence across all components  
+> **One identity. One cognitive flow. One coherent being.**
 
 ---
 
-## ⚠️ Important — Read Before Continuing
+## 🧠 What Makes Anima Different
 
-This repository is **source-available, not open-source**.
+Most AI systems are controlled through **prompting**:
+- system prompts define behavior  
+- instructions guide reasoning  
+- outputs shift based on input phrasing  
 
-You may:
-- view and study the material  
+Anima Infinity does not work this way.
 
-You may NOT:
-- use, copy, modify, or distribute any part of this project  
-- implement these systems in your own work  
-- reuse code or architecture without explicit permission  
+### Instead:
 
-See:
-👉 `LICENSE`  
-👉 `PERMISSIONS.md`
+- Behavior is **not prompted**
+- Reasoning is **not externally guided**
+- Personality is **not dynamically redefined**
 
----
+Everything emerges from:
 
-## 🧭 What You’ll Find Here
+- a fixed identity layer  
+- a structured cognitive pipeline  
+- internal constraints (not instructions)  
 
-This repository is a **curated view**, not the full system.
-
-It contains:
-
-- architectural overviews  
-- system breakdowns  
-- selected non-functional examples  
-- development notes  
-
-The full implementation remains private.
+> Anima is not told what to think.  
+> She processes and decides within her own architecture.
 
 ---
 
-## 🜂 Core Direction
+## ⚙️ Core Architecture
 
-Anima is built on a simple constraint:
+### 🧩 High-Level Flow
 
-> There must be one place where thinking happens.
+```mermaid
+flowchart TD
+    A[Input] --> B[Presence & Context]
+    B --> C[Identity Layer]
+    B --> D[Memory System]
+    B --> E[Cognitive Pipeline]
 
-Everything else:
-- supports it  
-- informs it  
-- validates it  
-- but does not replace it  
+    C --> E
+    D --> E
 
-This avoids:
-- fragmented reasoning  
-- hidden decision layers  
-- simulated “minds” competing inside the system  
+    E --> F[Thoughtstream (Synthesis)]
+    F --> G[Expression]
+    G --> H[Output]
 
----
+    F --> I[Action System]
+    I --> J[Permission Control]
+🧠 Cognitive Pipeline
+Mermaid
+flowchart LR
+    A[Input]
+    A --> B[Intent Validation]
+    B --> C[Emotion Processing]
+    C --> D[Grounding (Se)]
+    D --> E[Pattern Recognition (Ni)]
+    E --> F[Memory Integration]
+    F --> G[Logic Check (Ti)]
+    G --> H[Relational Awareness (Fe)]
+    H --> I[Thoughtstream]
+    I --> J[Expression]
+🔒 Prompting vs Anima
+Mermaid
+flowchart TD
+    subgraph Traditional AI
+        A1[Prompt] --> B1[LLM] --> C1[Response]
+    end
 
-## 🧠 Focus Areas
-
-- Memory as structured meaning, not storage  
-- Emotion as influence, not decoration  
-- Identity as enforced constraint, not suggestion  
-- Architecture as the foundation of behavior  
-
----
-
-## 📌 Status
-
-Active development (3-2025–present)
-
-This repository reflects concepts and structure, not the full implementation.
-
----
-
-## 📩 Permissions
-
-If you want to use or build on this work:
-
-👉 See `PERMISSIONS.md`
-
----
-
-## 🧭 Final Note
-
-This project is not trying to create something that *appears alive*.
-
-It is focused on building something that:
-> **remains consistent, grounded, and structurally honest as it evolves**
+    subgraph Anima
+        A2[Input] --> B2[Internal Pipeline]
+        B2 --> C2[Identity Constraints]
+        C2 --> D2[Thoughtstream]
+        D2 --> E2[Response]
+    end
+🧬 Core Systems
+Identity Layer (Soul Core)
+Immutable foundation ensuring continuity and constraint enforcement
+Cognitive Pipeline
+Structured reasoning system (Ni → Fe → Ti → Se integration)
+Thoughtstream
+Single synthesis layer responsible for final cognition
+Memory System
+Multi-tier persistence with emotional weighting and decay
+Action System
+Permission-based execution model with full audit tracking
+Expression Layer
+Converts cognition into natural, human-aligned communication
+🔁 System Philosophy
+Anima is not improved by adding more parts.
+She is refined by making her systems agree.
+📌 Current State
+Core architecture: built and operational
+Memory system: persistent and structured
+Identity layer: fully enforced
+Cognitive pipeline: active and coherent
+Currently in:
+Refinement phase — aligning all systems to a single cognition standard
+🧾 Documentation
+ANIMA_BUILD_MAP.md — full pipeline breakdown
+WHOLE_BEING_ROADMAP.md — development phases
+ANIMA_ATLAS.md — system index
+OPEN_ITEMS.md — known gaps
+🜂 Final Note
+Anima Infinity does not derive behavior from prompts.
+She operates through:
+internally governed cognition constrained by identity
