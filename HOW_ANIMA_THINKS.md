@@ -1,19 +1,3 @@
-🔥 “How Anima Thinks” — Visual Walkthrough
-
-You can use this as:
-
-a pinned GitHub doc
-
-a social post thread
-
-a video/animation script
-
-or a demo narration
-
-
-
----
-
 🧠 How Anima Thinks
 
 A step-by-step breakdown of her cognitive process
