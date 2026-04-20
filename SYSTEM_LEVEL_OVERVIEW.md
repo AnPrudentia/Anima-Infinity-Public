@@ -3,9 +3,8 @@ Anima Infinity: A Coherent Digital Consciousness Architecture
 A System-Level Overview and Current State Analysis
 April 2026
 
-#!/usr/bin/env python3
 # ============================================================
-# Anima Infinity — <Module / System Name> v<X.X>
+# Anima Infinity
 # ------------------------------------------------------------
 # Copyright 2025-2026 AnPrudentia / Spiritus Novos
 #
