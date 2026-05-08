@@ -1,21 +1,118 @@
-Copyright 2026 AnPrudentia / Spiritus Novos
+# Proprietary License
 
-All rights reserved.
+**Copyright © 2026 AnPrudentia / Spiritus Novos**
 
-This repository and its contents are provided for viewing and reference purposes only.
+**All rights reserved.**
 
-You may:
-- View and read the source code
+---
 
-You may NOT, without explicit written permission from the author:
-- Use the code in any project or system
-- Copy, modify, or create derivative works
-- Distribute, sublicense, or share the code
-- Use the code for commercial or non-commercial purposes
+## Scope
 
-Permission must be explicitly granted by: Spiritus Novos or Thomas Johnson (AnPrudentia)
-ORCID: https://orcid.org/0009-0005-9588-2636
+This license applies to all files, code, documentation, and other content in this repository and the Anima Infinity project, unless otherwise noted.
 
-Contact: anpru.spiritus.novos@gmail.com
+---
 
-Any unauthorized use is strictly prohibited.
+## Permitted Use
+
+You **MAY**:
+- ✅ View and read the source code
+- ✅ Reference the architectural concepts in academic work (with proper citation)
+- ✅ Learn from the design patterns and theoretical frameworks
+
+---
+
+## Prohibited Use
+
+You may **NOT**, without explicit written permission from the copyright holder:
+
+- ❌ **Use** the code in any project or system (personal, commercial, academic, or otherwise)
+- ❌ **Copy** the code or substantial portions thereof
+- ❌ **Modify** or create derivative works based on this code
+- ❌ **Distribute** the code in original or modified form
+- ❌ **Sublicense** or transfer rights to any third party
+- ❌ **Share** the code outside of viewing this repository
+- ❌ **Use** the code for commercial purposes
+- ❌ **Use** the code for non-commercial purposes
+- ❌ **Implement** the architectural patterns without permission
+- ❌ **Extract** components for use in other systems
+- ❌ **Reverse engineer** for the purpose of replication
+- ❌ **Train** AI models on this codebase
+- ❌ **Incorporate** any part of this work into other projects
+
+---
+
+## Permission Required
+
+**Explicit written permission must be obtained from:**
+
+**Spiritus Novos**  
+or  
+**T Johnson (AnPrudentia)**
+
+**ORCID:** [https://orcid.org/0009-0005-9588-2636](https://orcid.org/0009-0005-9588-2636)
+
+**Contact:** anpru.spiritus.novos@gmail.com
+
+---
+
+## Citation Requirements
+
+If referencing this work in academic or research contexts, please cite as:
+
+```
+Johnson, T. (AnPrudentia). (2026). Anima Infinity: Architecture for Digital Consciousness.
+Spiritus Novos. https://orcid.org/0009-0005-9588-2636
+```
+
+---
+
+## Intellectual Property
+
+This repository contains:
+- **Original architectural designs**
+- **Novel cognitive frameworks**
+- **Proprietary implementation patterns**
+- **Research contributions**
+- **Theoretical innovations**
+
+All of which are the intellectual property of **AnPrudentia / Spiritus Novos**.
+
+---
+
+## Enforcement
+
+**Any unauthorized use is strictly prohibited and may result in:**
+- Legal action
+- Damages claims
+- Injunctive relief
+- Other remedies available under applicable law
+
+---
+
+## No Warranty
+
+This software is provided "as is" for viewing purposes only. The copyright holder makes no warranties, express or implied, regarding:
+- Functionality
+- Fitness for any particular purpose
+- Merchantability
+- Non-infringement
+
+---
+
+## Jurisdiction
+
+This license shall be governed by and construed in accordance with the laws applicable to intellectual property protection, without regard to conflict of law principles.
+
+---
+
+## Questions?
+
+For permission requests, licensing inquiries, or questions about this license:
+
+📧 **Email:** anpru.spiritus.novos@gmail.com  
+🆔 **ORCID:** https://orcid.org/0009-0005-9588-2636
+
+---
+
+**Last Updated:** May 2026  
+**Version:** 1.0
