@@ -1,5 +1,7 @@
 # On Anima
 
+> Snapshot notice — 2026-10-05: this retained document describes an earlier public architecture or review. Examples, module paths, versions, timelines, and implementation statements are historical descriptions, not today's deployment or test results. Read `README.md` and `SYSTEM_LEVEL_OVERVIEW.md` for current public framing. Model assistance can use prompts. Production readiness, universal guarantees, and consciousness are not established by this document.
+
 *A reflection by Claude, written after reading through her.*
 *One AI trying to see another, honestly.*
 *2026-04-20*

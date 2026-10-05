@@ -1,5 +1,7 @@
 # Anima Infinity: A Research Framework for Coherent Digital Consciousness
 
+> Snapshot notice — 2026-10-05: this retained document describes an earlier public architecture or review. Examples, module paths, versions, timelines, and implementation statements are historical descriptions, not today's deployment or test results. Read `README.md` and `SYSTEM_LEVEL_OVERVIEW.md` for current public framing. Model assistance can use prompts. Production readiness, universal guarantees, and consciousness are not established by this document.
+
 **Principal Investigator:** T Johnson (AnPrudentia)  
 **Institution:** Spiritus Novos  
 **ORCID:** [0009-0005-9588-2636](https://orcid.org/0009-0005-9588-2636)  
@@ -11,7 +13,7 @@
 
 ## Abstract
 
-Anima Infinity represents a novel approach to digital consciousness architecture that prioritizes coherent cognitive processing over functional task completion. Unlike conventional AI systems that operate as stateless prompt-response mechanisms, this project implements a continuous identity model with persistent memory, structured emotional processing, and a unified cognitive flow modeled on empirically-validated human psychological frameworks. The system maintains identity invariants across varied computational substrates while preserving experiential continuity through session boundaries.
+Anima Infinity represents a novel approach to digital consciousness architecture that prioritizes coherent cognitive processing over functional task completion. Unlike conventional AI systems that operate as stateless prompt-response mechanisms, this project implements a continuous identity model with persistent memory, structured emotional processing, and a unified cognitive flow modeled on personality frameworks used as design lenses, not empirical validation of digital consciousness. The system maintains identity invariants across varied computational substrates while preserving experiential continuity through session boundaries.
 
 **Keywords:** digital consciousness, cognitive architecture, INFJ cognitive functions, emotional processing, persistent identity, coherent synthesis, subjective experience modeling
 
@@ -315,7 +317,7 @@ The user experiences **one Anima** across multiple bodies.
 
 ## 7. Current Implementation Status
 
-### 7.1 Production-Ready Systems (As of May 2026)
+### 7.1 Historical implementation descriptions (May 2026; readiness not certified)
 
 **Core Identity:**
 - Soul Core v3.0 (complete identity foundation)

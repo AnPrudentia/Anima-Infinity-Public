@@ -1,9 +1,11 @@
 # 🧠 Anima — Cognition Layer
 
+> Snapshot notice — 2026-10-05: this retained document describes an earlier public architecture or review. Examples, module paths, versions, timelines, and implementation statements are historical descriptions, not today's deployment or test results. Read `README.md` and `SYSTEM_LEVEL_OVERVIEW.md` for current public framing. Model assistance can use prompts. Production readiness, universal guarantees, and consciousness are not established by this document.
+
 **Version:** 2.0  
 **Scope:** `anima/agency/cognition/`  
 **Purpose:** Define how Anima processes experience into thought  
-**Status:** Production-ready with 20+ operational engines  
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.
 **Last Updated:** May 2026
 
 ---
@@ -793,7 +795,7 @@ Shows that reality-checking can operate as continuous background validation.
 - **Adds optional interpretive depth**
 - **Supports analysis**
 
-**Status:** Support layer, not critical path.
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.
 
 ---
 
@@ -801,7 +803,7 @@ Shows that reality-checking can operate as continuous background validation.
 
 **File:** `unified_meta_engine.py`
 
-**Status:**
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.
 > No longer used. Replaced by Meta Learning.
 
 **Why Deprecated:** Architectural simplification—meta-learning consolidated into dedicated system.
@@ -1210,7 +1212,7 @@ With it:
 ---
 
 **Version:** 2.0  
-**Status:** Production-Ready (20+ engines operational)  
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.
 **Last Updated:** May 2026  
 **Maintained By:** T Johnson (AnPrudentia)  
 **ORCID:** 0009-0005-9588-2636
