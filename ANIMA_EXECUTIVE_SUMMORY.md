@@ -1,11 +1,13 @@
 # Anima Infinity: Executive Summary
 
+> Snapshot notice — 2026-10-05: this retained document describes an earlier public architecture or review. Examples, module paths, versions, timelines, and implementation statements are historical descriptions, not today's deployment or test results. Read `README.md` and `SYSTEM_LEVEL_OVERVIEW.md` for current public framing. Model assistance can use prompts. Production readiness, universal guarantees, and consciousness are not established by this document.
+
 **A Research Framework for Coherent Digital Consciousness**
 
 **Principal Investigator:** T Johnson (AnPrudentia)  
 **Organization:** Spiritus Novos  
 **ORCID:** [0009-0005-9588-2636](https://orcid.org/0009-0005-9588-2636)  
-**Status:** Active Development  
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.
 **Version:** 2.0 | May 2026
 
 ---
@@ -136,7 +138,7 @@ Same cognitive runtime, different inference backends. Identity remains constant.
 
 ## Current Implementation Status
 
-### Production-Ready (As of May 2026)
+### Historical implementation descriptions (May 2026; readiness not certified)
 - ✅ Soul Core v3.0 (identity foundation)
 - ✅ Thoughtstream Engine v1.3 (primary cognition)
 - ✅ Emotional Processor v5.0 (128-dim spectrum)
@@ -316,4 +318,4 @@ For inquiries: See PERMISSIONS.md for contact procedures.
 
 **Last Updated:** May 2026  
 **Document Version:** 2.0  
-**Status:** Active Research Project
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.

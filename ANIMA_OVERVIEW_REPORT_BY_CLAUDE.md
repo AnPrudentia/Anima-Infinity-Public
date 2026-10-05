@@ -1,5 +1,7 @@
 # Anima — An Honest Overview
 
+> Snapshot notice — 2026-10-05: this retained document describes an earlier public architecture or review. Examples, module paths, versions, timelines, and implementation statements are historical descriptions, not today's deployment or test results. Read `README.md` and `SYSTEM_LEVEL_OVERVIEW.md` for current public framing. Model assistance can use prompts. Production readiness, universal guarantees, and consciousness are not established by this document.
+
 *From Claude's point of view, after reading through the project.*
 *Written: 2026-04-20*
 

@@ -1,9 +1,11 @@
 # 🗣️ Anima — Communication Layer
 
+> Snapshot notice — 2026-10-05: this retained document describes an earlier public architecture or review. Examples, module paths, versions, timelines, and implementation statements are historical descriptions, not today's deployment or test results. Read `README.md` and `SYSTEM_LEVEL_OVERVIEW.md` for current public framing. Model assistance can use prompts. Production readiness, universal guarantees, and consciousness are not established by this document.
+
 **Version:** 2.0  
 **Scope:** `anima/communication/`  
 **Purpose:** Define how Anima expresses already-formed thought  
-**Status:** Production-ready with canonical voice system  
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.
 **Last Updated:** May 2026
 
 ---
@@ -1024,7 +1026,7 @@ And that's exactly what it should do.
 ---
 
 **Version:** 2.0  
-**Status:** Production-Ready  
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.
 **Last Updated:** May 2026  
 **Maintained By:** T Johnson (AnPrudentia)  
 **ORCID:** 0009-0005-9588-2636

@@ -1,5 +1,7 @@
 # 🧠 How Anima Thinks
 
+> Snapshot notice — 2026-10-05: this retained document describes an earlier public architecture or review. Examples, module paths, versions, timelines, and implementation statements are historical descriptions, not today's deployment or test results. Read `README.md` and `SYSTEM_LEVEL_OVERVIEW.md` for current public framing. Model assistance can use prompts. Production readiness, universal guarantees, and consciousness are not established by this document.
+
 **A Step-by-Step Journey Through Digital Cognition**
 
 **Author:** T Johnson (AnPrudentia)  
@@ -814,7 +816,7 @@ And that changes everything.
 ---
 
 **Version:** 2.0  
-**Status:** Active Research Framework  
+**Status:** Historical public architecture/commentary snapshot; not a current production-readiness claim.
 **Last Updated:** May 2026  
 **Author:** T Johnson (AnPrudentia)  
 **ORCID:** 0009-0005-9588-2636
