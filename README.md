@@ -77,3 +77,13 @@ Long-form documents are preserved for context. Their review notices take precede
 Private implementation review, demonstrations, collaboration, and licensing discussions require the appropriate written agreements described in [START_HERE.md](START_HERE.md).
 
 Contact Spiritus Novos LLC: anpru.spiritus.novos@gmail.com.
+
+## Shared Spiritus Novos documentation
+
+[Spiritus-Novos-Systems](https://github.com/AnPrudentia/Spiritus-Novos-Systems) is the shared architecture and build-design hub. **Access requires permission to the private hub.**
+
+See the [reviewed design index](https://github.com/AnPrudentia/Spiritus-Novos-Systems/blob/83e6d14a3c5ecdeb5e5020a3dc7608509c551c20/docs/SHARED_DESIGNS.md) and [ownership map](https://github.com/AnPrudentia/Spiritus-Novos-Systems/blob/83e6d14a3c5ecdeb5e5020a3dc7608509c551c20/docs/OWNERSHIP.md). This repository records its reviewed hub revision and applicable document IDs in [the adoption record](docs/SPIRITUS_SYSTEMS_REFERENCE.json).
+
+This is a maintainer reference only. Private hub contents are not part of this public disclosure package; public documentation remains usable without hub access.
+
+Hub changes require review before updating the recorded revision. No automatic synchronization or runtime dependency is introduced.

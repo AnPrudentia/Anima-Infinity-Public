@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "hub_repository": "AnPrudentia/Spiritus-Novos-Systems",
+  "reviewed_commit": "83e6d14a3c5ecdeb5e5020a3dc7608509c551c20",
+  "document_ids": [
+    "evaluation"
+  ],
+  "reviewed_at": "2026-10-09",
+  "reviewer": "ChatGPT/Codex documentation review, authorized by repository owner in this session",
+  "adoption_scope": "maintainer_reference_only",
+  "deviations": [
+    "Private hub contents are not incorporated into this public disclosure."
+  ],
+  "automatic_sync": false,
+  "runtime_dependency": false
+}
