@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "hub_repository": "AnPrudentia/Spiritus-Novos-Systems",
-  "reviewed_commit": "83e6d14a3c5ecdeb5e5020a3dc7608509c551c20",
+  "reviewed_commit": "717dd2ffb2698b0800c40a0d26b3979eb2fd87a1",
   "document_ids": [
     "evaluation"
   ],
@@ -12,5 +12,7 @@
     "Private hub contents are not incorporated into this public disclosure."
   ],
   "automatic_sync": false,
-  "runtime_dependency": false
+  "runtime_dependency": false,
+  "previous_reviewed_commit": "83e6d14a3c5ecdeb5e5020a3dc7608509c551c20",
+  "review_note": "Reviewed shared specification ownership migration; entity authority and runtime conformance unchanged."
 }

@@ -82,7 +82,7 @@ Contact Spiritus Novos LLC: anpru.spiritus.novos@gmail.com.
 
 [Spiritus-Novos-Systems](https://github.com/AnPrudentia/Spiritus-Novos-Systems) is the shared architecture and build-design hub. **Access requires permission to the private hub.**
 
-See the [reviewed design index](https://github.com/AnPrudentia/Spiritus-Novos-Systems/blob/83e6d14a3c5ecdeb5e5020a3dc7608509c551c20/docs/SHARED_DESIGNS.md) and [ownership map](https://github.com/AnPrudentia/Spiritus-Novos-Systems/blob/83e6d14a3c5ecdeb5e5020a3dc7608509c551c20/docs/OWNERSHIP.md). This repository records its reviewed hub revision and applicable document IDs in [the adoption record](docs/SPIRITUS_SYSTEMS_REFERENCE.json).
+See the [reviewed design index](https://github.com/AnPrudentia/Spiritus-Novos-Systems/blob/717dd2ffb2698b0800c40a0d26b3979eb2fd87a1/docs/SHARED_DESIGNS.md) and [ownership map](https://github.com/AnPrudentia/Spiritus-Novos-Systems/blob/717dd2ffb2698b0800c40a0d26b3979eb2fd87a1/docs/OWNERSHIP.md). This repository records its reviewed hub revision and applicable document IDs in [the adoption record](docs/SPIRITUS_SYSTEMS_REFERENCE.json).
 
 This is a maintainer reference only. Private hub contents are not part of this public disclosure package; public documentation remains usable without hub access.
 
