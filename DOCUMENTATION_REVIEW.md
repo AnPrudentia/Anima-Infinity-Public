@@ -22,3 +22,13 @@ This package has no runtime or test suite. No private source, personal continuit
 6. Prepare reviewable documentation-only pull requests and report unresolved checks. Do not merge automatically.
 
 This record is a documentation baseline, not a blanket certification of every system or historical sentence.
+
+## Follow-up review — 2026-10-12
+
+Source: default branch `main` at `e075457bdfbeca3398a7717e9c3aa52d68999c20`.
+
+This is a change-focused review of current guides, plans, repository-local Markdown links, recent commits and open pull requests. Archived history, private identity/reference collections and older per-module reports were not revalidated. Chat retrieval is selective, not a complete export of every session. No full runtime, live model, hardware or recovery test was run in this pass.
+
+Public navigation and disclosure wording were checked. The shared-hub reference is maintainer-only; this package remains usable without private-hub access. No private chat decisions, identity information or private implementation details are added to public documents. Historical reports remain dated commentary, not current product certification.
+
+The six October 5 documentation pull requests are merged. No open pull requests were present in these six repositories at review time. Reviewed shared hub revision remains `717dd2ffb2698b0800c40a0d26b3979eb2fd87a1`; a newer prototype note does not automatically change that adoption record.
